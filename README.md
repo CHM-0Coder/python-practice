@@ -47,7 +47,7 @@ This repository contains my Python practice exercises focused on string manipula
 
 - **String Methods Practice (`string_methods_practice.py`):** Exercises focused on Python string manipulation and basic text processing.
 - **Bill Calculator (`bill_calculator.py`):** A simple bill calculator that calculates the total bill, adds a 25% tip, and divides the final amount among four people.
-- **Ticket Booking System(`movie_ticket_booking_calculator.py`):** Created a ticket booking system using conditional statements to check eligibility, apply discounts, calculate extra charges and determine the final ticket price.
+- **Ticket Booking System(`movie_ticket_booking_calculator`):** Created a ticket booking system using conditional statements to check eligibility, apply discounts, calculate extra charges and determine the final ticket price.
 
 ## Purpose
 
