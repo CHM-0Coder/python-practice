@@ -8,7 +8,7 @@ This repository contains my Python practice exercises focused on string manipula
 - Finding characters using `find()`
 - Checking substrings using `in`
 - Cleaning strings using `strip()`
-- Changing letter case using `upper()`, `lower()`, and `title()`
+- Changing letter case using `upper()`, `lower()` and `title()`
 - Extracting usernames using string slicing
 - Replacing characters using `replace()`
 - Splitting and joining strings
