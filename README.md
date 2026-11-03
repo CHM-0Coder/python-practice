@@ -40,6 +40,7 @@ My Python practice exercises covering strings, numbers, operators, conditionals,
 | `movie_ticket_booking_calculator` | Checks eligibility, applies discounts, and calculates the final ticket price |
 | `travel-decision-conditionals` | Decides if a trip is possible based on distance, weather, and transportation |
 | `kitchen-inventory-tracker` | Tracks kitchen stock and updates the egg count using functions and return values |
+| `apply_discount_function` | Calculates the final price after a percentage discount, with input validation using functions and conditionals |
 
 ## Purpose
 
