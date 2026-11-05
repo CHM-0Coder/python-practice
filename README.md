@@ -41,7 +41,7 @@ My Python practice exercises covering strings, numbers, operators, conditionals,
 | `travel-decision-conditionals` | Decides if a trip is possible based on distance, weather, and transportation |
 | `kitchen-inventory-tracker` | Tracks kitchen stock and updates the egg count using functions and return values |
 | `apply_discount_function` | Calculates the final price after a percentage discount, with input validation using functions and conditionals |
-| `build_a_caesar_cipher.py` | Calculates the final price after a percentage discount, with input validation using functions and conditionals | Caesar cipher in Python with encrypt and decrypt functions that shift letters of either case by 1-25 and validate the shift value.
+| `build_a_caesar_cipher.py` | Caesar cipher in Python with encrypt and decrypt functions that shift letters of either case by 1-25 and validate the shift value. | 
 
 ## Purpose
 
