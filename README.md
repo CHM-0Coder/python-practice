@@ -42,7 +42,7 @@ My Python practice exercises covering strings, numbers, operators, conditionals,
 | `kitchen-inventory-tracker` | Tracks kitchen stock and updates the egg count using functions and return values |
 | `apply_discount_function` | Calculates the final price after a percentage discount, with input validation using functions and conditionals |
 | `build_a_caesar_cipher.py` | Caesar cipher in Python with encrypt and decrypt functions that shift letters of either case by 1-25 and validate the shift value. | 
-
+| `build_a_RPG_character.py` | RPG character creator that validates user input and generates character profiles using strength, intelligence, and charisma stats. | 
 ## Purpose
 
 This repository is part of my journey to learn Python and build strong fundamentals through consistent, hands-on practice.
